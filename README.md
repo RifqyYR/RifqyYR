@@ -6,7 +6,7 @@ You can follow me in my linkedin [here](https://www.linkedin.com/in/rifqyyr/)
 
 <a><h2>Stats</h2></a>
 <p align="left">
-<a href="https://github.com/Rifqy232">
+<a href="https://github.com/RifqyYR">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
