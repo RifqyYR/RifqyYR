@@ -13,6 +13,6 @@ You can follow me in my linkedin [here](https://www.linkedin.com/in/rifqyyr/)
 </p>
 
 <a><h2>Trophies</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/RifqyYR/github-profile-trophy">
     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=RifqyYR&row=4&theme=onedark&no-frame=true"/>
 </a>
